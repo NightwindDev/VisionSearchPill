@@ -1,0 +1,4 @@
+module VisionSearchPillC {
+    umbrella "."
+    export *
+}

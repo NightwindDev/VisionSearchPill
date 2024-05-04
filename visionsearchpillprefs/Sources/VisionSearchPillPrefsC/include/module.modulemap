@@ -1,0 +1,5 @@
+module VisionSearchPillPrefsC {
+    header "Constants.h"
+    umbrella "."
+    export *
+}

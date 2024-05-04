@@ -1,0 +1,9 @@
+Package: com.nightwind.visionsearchpill
+Name: VisionSearchPill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add a flare of visionOS to your search pill!
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 16.0)
