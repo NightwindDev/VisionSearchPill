@@ -3,14 +3,12 @@
 # VisionSearchPill
 #### Add a flare of visionOS to your search pill!
 ###### Compatible with iOS 16+
----
-
-A simple tweak that allows customization of the search pill that comes with iOS 16.
 
 ---
 
-<img width="200" style="border-radius:10px" src="Screenshot.jpeg">
-<img width="200" style="border-radius:10px" src="Screenshot_2.jpeg">
+Tweak in action            |  Settings
+:-------------------------:|:-------------------------:
+<img width="200" src="Screenshot.jpeg">  |  <img width="200" src="Screenshot_2.jpeg">
 
 ---
 
